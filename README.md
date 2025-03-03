@@ -9,35 +9,26 @@ Follow these steps to get the project up and running on your local machine.
 📌 Prerequisites
 Ensure you have the following installed before proceeding:
 
-Node.js (v14 or higher) – Download Here
-npm (v6 or higher) – Comes with Node.js
+## Node.js (v14 or higher) – Download Here
+## npm (v6 or higher) – Comes with Node.js
 Git – Download Here
 🔧 Installation
 Clone the repository
 
-bash
-Copy
-Edit
-git clone https://github.com/essienricch/Aleo-adapter-task.git
+
+### `git clone https://github.com/essienricch/Aleo-adapter-task.git`
 Navigate to the project directory
 
-bash
-Copy
-Edit
-cd Aleo-adapter-task
+
+### `cd Aleo-adapter-task`
 Install dependencies
 
-bash
-Copy
-Edit
-npm install
+### `npm install`
 ▶️ Running the Application
 Start the development server by running:
 
-bash
-Copy
-Edit
-npm start
+
+### `npm start`
 This will launch the server, and the application should automatically open in your default web browser.
 If it doesn't, you can access it at:
 
