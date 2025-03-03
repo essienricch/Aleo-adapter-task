@@ -1,3 +1,38 @@
+Aleo Wallet Adapter
+This repository provides a wallet adapter for Aleo blockchain applications, enabling seamless integration with Aleo wallets.
+Getting Started
+Follow these steps to get the project up and running on your local machine.
+Prerequisites
+
+Node.js (v14 or higher)
+npm (v6 or higher)
+Git
+
+Installation
+
+Clone the repository:
+bashCopygit clone https://github.com/essienricch/Aleo-adapter-task.git
+
+Navigate to the project directory:
+bashCopycd Aleo-adapter-task
+
+Install dependencies:
+bashCopynpm install
+
+
+Running the Application
+Start the development server:
+bashCopynpm start
+This will launch the server and the application should automatically open in your default web browser. If it doesn't, you can access it at http://localhost:3000.
+Interacting with the Application
+Once the application is running:
+
+Connect your Aleo wallet using the "Connect Wallet" button
+View your account information and balance
+Explore the available features for interacting with Aleo blockchain
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
